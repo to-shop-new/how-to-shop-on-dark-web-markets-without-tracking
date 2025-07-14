@@ -139,3 +139,5 @@ Use official onion URLs, but always verify them before use.
 Successfully navigating dark web markets without leaving a traceable trail requires a rigorous approach to privacy.  By combining VPNs, Tor, privacy-focused cryptocurrency (Monero), dedicated devices, strong security practices, and a skeptical mindset, you can significantly reduce the risk of being tracked.  Always prioritize your digital security and privacy. *Be aware that participation in these markets may be illegal in your jurisdiction.*
 
 Plase contribute and add stars to this repo.
+
+Update:  14 July Manifest links
