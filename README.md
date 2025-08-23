@@ -152,4 +152,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  19.08.2025 Fixed broken url
+
+
+Update:  23 August Fixed inaccessible link
